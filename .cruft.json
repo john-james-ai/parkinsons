@@ -1,0 +1,18 @@
+{
+  "template": "https://github.com/woltapp/wolt-python-package-cookiecutter",
+  "commit": "4eecc9c4d27e3c9321438bc1fdaf717bec5eadf6",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "author_name": "John James",
+      "author_email": "john.james.ai.studio@gmail.com",
+      "github_username": "john-james-ai",
+      "project_name": "Parkinsons Freezing of Gait Prediction",
+      "project_slug": "parkinsons",
+      "package_name": "parkinsons",
+      "project_short_description": "A short description of the project",
+      "_template": "https://github.com/woltapp/wolt-python-package-cookiecutter"
+    }
+  },
+  "directory": null
+}
